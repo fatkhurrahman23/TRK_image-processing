@@ -1,0 +1,8 @@
+buat program dengan python notebook untuk: 
+1. modifikasi kecerahan gambar
+2. negasi gambar
+3. konversi warna
+4. peningkatan kontras
+5. thresholding (tidak dikerjakan)
+
+buat program secara manual tanpa menggunakan library
